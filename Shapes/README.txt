@@ -1,0 +1,1 @@
+The overwinter buffers are the range in which agent's "know" where the end location is. The default vector navigation strategy is given 30km (a range that only encompasses the overwintering location and accompanying forests). True navigation is provided a range that encompasses the entire North America.
