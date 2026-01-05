@@ -42,7 +42,7 @@ EndRange <-  read_sf("Shapes/OverwinterBuffer240kilo.shp")
 
 #Parameters
 
-#Standard deviation and Variacne of Pied flycatcher orientations 
+#Standard deviation and Variacne of monarch orientations 
 #assuming normal distribution
 sd_rad <- 0.9033
 var_rad <- sd_rad^2
